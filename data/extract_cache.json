@@ -1,0 +1,1626 @@
+{
+  "feba748f00c95c27d07c38b65d621f3bd2000c78902901104c90ae344d2ec5a2": {
+    "category": "streetlight",
+    "subcategory": "light failure",
+    "location_text": "राजा पार्क",
+    "duration_days": 3,
+    "severity": 4,
+    "infrastructure": "streetlight"
+  },
+  "0f29ee12de8be9b2869f905a09fe6dafe08f568d4f6bbecbf5acf20bfcd892a5": {
+    "category": "road_damage",
+    "subcategory": "large pothole",
+    "location_text": "Tonk Road near the signal",
+    "duration_days": 14,
+    "severity": 8,
+    "infrastructure": "road surface"
+  },
+  "33d07b217adf45057606647b0319d9fe540a883df1fa90bdccaf41e4e3ffa521": {
+    "category": "drainage",
+    "subcategory": "drain overflow",
+    "location_text": "Mansarovar",
+    "duration_days": 3,
+    "severity": 6,
+    "infrastructure": "drain"
+  },
+  "77694baed3b348d8238f397253d4f0ee1a8dd6b788bc872c04ae727a99ab65b2": {
+    "category": "drainage",
+    "subcategory": "drain overflow",
+    "location_text": "Sector 7 Mansarovar",
+    "duration_days": null,
+    "severity": 6,
+    "infrastructure": "drain"
+  },
+  "4a205ca520d58f3a0434abd8e3b6bdb5171ac1b3b88a805cccbbff733327d548": {
+    "category": "drainage",
+    "subcategory": "sewage backup",
+    "location_text": "near Madhyam Marg in Mansarovar",
+    "duration_days": null,
+    "severity": 9,
+    "infrastructure": "sewage drain"
+  },
+  "10bc9191d98690b0aff7cfae0fe3efb2a8e7b06be0ac580f2cdf2be34e0d2ca1": {
+    "category": "drainage",
+    "subcategory": "drain overflow",
+    "location_text": "Mansarovar sec 7",
+    "duration_days": null,
+    "severity": 6,
+    "infrastructure": "drain"
+  },
+  "491b60d969bd755024a34de7baa059bb26f030ad0c46624b797c8a2664c3afaa": {
+    "category": "drainage",
+    "subcategory": "drain overflow",
+    "location_text": "मानसरोवर सेक्टर 7",
+    "duration_days": null,
+    "severity": 6,
+    "infrastructure": "drain"
+  },
+  "faa325f9ed7776aa2a3df110f40e338cd7db4f320c718b6590ef30ed7485745a": {
+    "category": "drainage",
+    "subcategory": "drain overflow",
+    "location_text": "मानसरोवर सेक्टर 9",
+    "duration_days": null,
+    "severity": 6,
+    "infrastructure": "drain"
+  },
+  "e32baa40c1b2168b832f88e205d4eb1f5c53c568ff9369f6b377feba79765d06": {
+    "category": "drainage",
+    "subcategory": "drain overflow",
+    "location_text": "VT Road Mansarovar",
+    "duration_days": 2,
+    "severity": 6,
+    "infrastructure": "drain"
+  },
+  "b2d3144860337b4b83a8b49c5a4c6a72d34cc7484c8904bc7560f711c5532595": {
+    "category": "drainage",
+    "subcategory": "sewage overflow",
+    "location_text": "Mansarover sec 6",
+    "duration_days": 1,
+    "severity": 6,
+    "infrastructure": "sewer"
+  },
+  "e9098054fce0c412d240c658dada4aff2ba35ba498677b5be468d8d877503632": {
+    "category": "drainage",
+    "subcategory": "drain overflow",
+    "location_text": "मानसरोवर मेट्रो स्टेशन के पीछे",
+    "duration_days": null,
+    "severity": 6,
+    "infrastructure": "drain"
+  },
+  "095cc5813d0111ae28c09733831c6e1cdba23817c2c92d67d5a9da084c840b86": {
+    "category": "drainage",
+    "subcategory": "blocked drain",
+    "location_text": "Mansarovar Sector 4 market",
+    "duration_days": null,
+    "severity": 6,
+    "infrastructure": "drain"
+  },
+  "b814dd0ae00cbe0ae06089f78add5485e16e4e93c3f5acc43d399a0ef4be91d8": {
+    "category": "drainage",
+    "subcategory": "drain overflow",
+    "location_text": "Mansarovar, Kaveri Path ke paas",
+    "duration_days": 1,
+    "severity": 7,
+    "infrastructure": "drain"
+  },
+  "dab19d08fa028243fc203129c685a57277d4307b59f31add9065a571042892e2": {
+    "category": "drainage",
+    "subcategory": "sewer overflow",
+    "location_text": "मानसरोवर सेक्टर 3 के पास",
+    "duration_days": 1,
+    "severity": 6,
+    "infrastructure": "sewer"
+  },
+  "a3af6b8e22fc80f94b80596186678237475b7e12a09c39a8600d3e08324007b1": {
+    "category": "drainage",
+    "subcategory": "drain overflow",
+    "location_text": "Shipra Path Mansarovar",
+    "duration_days": null,
+    "severity": 6,
+    "infrastructure": "drain"
+  },
+  "dea9be750e5891388e39faad6aacd6d12a88d68573b6c732c6eecca62898bdf0": {
+    "category": "waste",
+    "subcategory": "garbage pile",
+    "location_text": "side lane near Gaurav Tower",
+    "duration_days": 4,
+    "severity": 5,
+    "infrastructure": "garbage"
+  },
+  "1ba53c302a6a6f849dfe9942257a0aa0378f442dd6bb941f63aa9f0a518cb789": {
+    "category": "waste",
+    "subcategory": "garbage on road",
+    "location_text": "GT ke side wali gali",
+    "duration_days": 4,
+    "severity": 6,
+    "infrastructure": "road"
+  },
+  "2b84790296b7918772a8e1f9d5614c9d744152c7002b597ba619ddd5183506b0": {
+    "category": "waste",
+    "subcategory": "missed garbage collection",
+    "location_text": "गौरव टावर के पास साइड वाली गली",
+    "duration_days": 4,
+    "severity": 5,
+    "infrastructure": "public bins"
+  },
+  "0c429bd2841ad1b30fbad3141e50df9efdce49c6f8c255933258db1de6ebe756": {
+    "category": "waste",
+    "subcategory": "garbage pile",
+    "location_text": "corner beside Gaurav Tower",
+    "duration_days": null,
+    "severity": 5,
+    "infrastructure": "garbage"
+  },
+  "b9987e69ee6bd19658dcf3b53ad4e7e4785e652850e3f490cb1502ac2d329ad2": {
+    "category": "waste",
+    "subcategory": "garbage pile",
+    "location_text": "GT Malviya Nagar ke paas same corner",
+    "duration_days": null,
+    "severity": 5,
+    "infrastructure": "public bin"
+  },
+  "2f6c11132ffe18d6baad991d584a42633bbbdcf034adeaaf817dfcdfda115c85": {
+    "category": "waste",
+    "subcategory": "garbage pile",
+    "location_text": "गौरव टावर के पास वाली गली में",
+    "duration_days": null,
+    "severity": 5,
+    "infrastructure": "garbage"
+  },
+  "6f1c6d85890d240dc93b058cd130b3eb1d830e3f63d0f4097f69ae877dac7b2d": {
+    "category": "waste",
+    "subcategory": "garbage pile",
+    "location_text": "near GT",
+    "duration_days": null,
+    "severity": 5,
+    "infrastructure": "public bins"
+  },
+  "7689508d4a5e49a28ccc3049f22fbd9564242f43c024e8685ad5279f6eef6c1f": {
+    "category": "waste",
+    "subcategory": "garbage pile",
+    "location_text": "near Gaurav tower side lane",
+    "duration_days": null,
+    "severity": 5,
+    "infrastructure": "garbage"
+  },
+  "30ef63e5f7fb947536f6d469e16b440fbf5780d24e612d068b9d3d91ca284b39": {
+    "category": "waste",
+    "subcategory": "garbage pile",
+    "location_text": "गौरव टावर के साइड वाले रास्ते पर",
+    "duration_days": null,
+    "severity": 5,
+    "infrastructure": "garbage"
+  },
+  "1248d8a616857cfd317ea5bf80f7703b270c3409f5ecebc1f0dce2792b5755bb": {
+    "category": "waste",
+    "subcategory": "garbage pile",
+    "location_text": "beside Gaurav Tower",
+    "duration_days": 0,
+    "severity": 5,
+    "infrastructure": "public bins"
+  },
+  "b01203ad63b5d41ec0ade343d4171f022e4727de636e2210b846ed8d6915139e": {
+    "category": "waste",
+    "subcategory": "garbage pile",
+    "location_text": "opposite SMS Hospital gate 2",
+    "duration_days": null,
+    "severity": 5,
+    "infrastructure": "garbage"
+  },
+  "63d7508bc59d9dd7fdd38572c7a5ddb7637a0e76679b6d2fed4fb66cef50932d": {
+    "category": "waste",
+    "subcategory": "garbage pile",
+    "location_text": "hospital gate 2 ke opposite",
+    "duration_days": null,
+    "severity": 5,
+    "infrastructure": "garbage"
+  },
+  "f50232bb2a8d606090868f4c5ebc29437210d22b4fc787a76bd7a41c4667ffab": {
+    "category": "waste",
+    "subcategory": "garbage pile",
+    "location_text": "एसएमएस अस्पताल गेट 2 के सामने",
+    "duration_days": null,
+    "severity": 5,
+    "infrastructure": "garbage"
+  },
+  "cef047444fadf69037b3a730baeef1476cfbe24f2c5af21f74eb6748ef20946b": {
+    "category": "waste",
+    "subcategory": "garbage pile",
+    "location_text": "opposite SMS gate 2",
+    "duration_days": null,
+    "severity": 5,
+    "infrastructure": "public bin"
+  },
+  "b4237f7141c1d96eff51ccba478a09366fac95c8a88d444a9f0d653f528a3ce5": {
+    "category": "waste",
+    "subcategory": "garbage pile",
+    "location_text": "SMS gate no 2 ke samne",
+    "duration_days": null,
+    "severity": 5,
+    "infrastructure": "garbage"
+  },
+  "ab91c4a3b182ce5647d361e47a6a63de24e7659554b6615bc3fe25729c173dc1": {
+    "category": "waste",
+    "subcategory": "garbage pile",
+    "location_text": "एसएमएस हॉस्पिटल गेट नंबर 2 के सामने",
+    "duration_days": null,
+    "severity": 5,
+    "infrastructure": "garbage"
+  },
+  "76c7e5cc49761cb726f0185af72e8410ebf7dd8a735f61f5d0d3c4b64719fdd5": {
+    "category": "waste",
+    "subcategory": "missed garbage collection",
+    "location_text": "opposite SMS Hospital gate 2",
+    "duration_days": 1,
+    "severity": 3,
+    "infrastructure": "public bin"
+  },
+  "fc2cb185a5312837694a23845e971ec492e877b9ddf29953aeb81b2711185e92": {
+    "category": "waste",
+    "subcategory": "garbage pile",
+    "location_text": "hospital gate 2 opposite",
+    "duration_days": null,
+    "severity": 5,
+    "infrastructure": "public bins"
+  },
+  "dcad6687472b85e6413d761b5d1329637799f91edcf7424121381fdfcac8950c": {
+    "category": "drainage",
+    "subcategory": "open manhole",
+    "location_text": "outside the community park in Jagatpura",
+    "duration_days": null,
+    "severity": 10,
+    "infrastructure": "manhole"
+  },
+  "960fa7ab57f75fc760cc32e845bcec82780c76af38fb2d2ce3f546919ec0dc75": {
+    "category": "drainage",
+    "subcategory": "open manhole",
+    "location_text": "Jagatpura community park ke bahar",
+    "duration_days": null,
+    "severity": 10,
+    "infrastructure": "manhole"
+  },
+  "1be448bbcef9d74166268983f08b3202ee98c8fd8114ff1b109cd34128355795": {
+    "category": "drainage",
+    "subcategory": "open manhole",
+    "location_text": "जगतपुरा कम्युनिटी पार्क के बाहर",
+    "duration_days": null,
+    "severity": 10,
+    "infrastructure": "manhole"
+  },
+  "5bf76a863914ee12759efd38a4414c821e6c10697cad410d851b2dc2f3a5fcbd": {
+    "category": "streetlight",
+    "subcategory": "light failure",
+    "location_text": "Raja Park at the corner of lane 4",
+    "duration_days": 3,
+    "severity": 6,
+    "infrastructure": "streetlight"
+  },
+  "4e17f0d30f225731d5d5b1f64068413b7d5f77f3989dd4c1b455aa61ec25371c": {
+    "category": "streetlight",
+    "subcategory": "light failure",
+    "location_text": "Raja Park gali 4 corner wali",
+    "duration_days": 3,
+    "severity": 4,
+    "infrastructure": "streetlight"
+  },
+  "c25d4699ec451aeb5be7894a14a3a814fcad2517f291796eadff08753a8731a1": {
+    "category": "streetlight",
+    "subcategory": "light failure",
+    "location_text": "राजा पार्क गली नंबर 4 के कोने",
+    "duration_days": 3,
+    "severity": 4,
+    "infrastructure": "streetlight"
+  },
+  "459fc260769df8c0ca0373bcafe28467ebb54bf0822e6982582cdd386cef1aef": {
+    "category": "streetlight",
+    "subcategory": "dim light",
+    "location_text": "Vaishali Nagar Block C",
+    "duration_days": null,
+    "severity": 3,
+    "infrastructure": "streetlight"
+  },
+  "2a0a29f8be3bfc4dd36352f7eb57c353a1ec4acc9c294934b65f2c19db07f7f2": {
+    "category": "road_damage",
+    "subcategory": "hidden pothole",
+    "location_text": "Jhotwara main road",
+    "duration_days": null,
+    "severity": 8,
+    "infrastructure": "road surface"
+  },
+  "3207058acb58779b3750b91eb5d138bedb1271ea046ed651db4dbbe146439148": {
+    "category": "road_damage",
+    "subcategory": "large pothole",
+    "location_text": "Jhotwara main road",
+    "duration_days": null,
+    "severity": 7,
+    "infrastructure": "road surface"
+  },
+  "0d00248a9bfb54c2954e53d27f18d9ecf4ef8b39e4f8e2680b82e316676209ab": {
+    "category": "road_damage",
+    "subcategory": "pothole",
+    "location_text": "झोटवाड़ा मेन रोड पर",
+    "duration_days": null,
+    "severity": 8,
+    "infrastructure": "road surface"
+  },
+  "ba0358a99e64fc9c8a5bc4134d5644ec0062aeec2a24f309a1b284146e5e2a7f": {
+    "category": "water_leak",
+    "subcategory": "low pressure",
+    "location_text": "Sanganer",
+    "duration_days": 2,
+    "severity": 6,
+    "infrastructure": "water pipe"
+  },
+  "b346961b211deb3b1ac5e511cb6134b41cf31a2bbcce9b7efd792eeec19e623a": {
+    "category": "water_leak",
+    "subcategory": "low pressure",
+    "location_text": "Sanganer",
+    "duration_days": 2,
+    "severity": 5,
+    "infrastructure": "water pipe"
+  },
+  "4affab6c64e82ea21c7f404088a5552ea74780b260ec294836ddf6011c48bc40": {
+    "category": "water_leak",
+    "subcategory": "low water pressure",
+    "location_text": "सांगानेर",
+    "duration_days": 2,
+    "severity": 3,
+    "infrastructure": "water pipe"
+  },
+  "24a11876fb6ea49ef49fbf1842786870f58b90b8c0682b0e44cc49475cafe9b5": {
+    "category": "water_leak",
+    "subcategory": "burst pipe",
+    "location_text": "beside the road in Jagatpura",
+    "duration_days": 3,
+    "severity": 6,
+    "infrastructure": "water pipe"
+  },
+  "c02200bcc34275d1a524e673953c7fd28e46a6cb901c339dac159ea07b10eb19": {
+    "category": "water_leak",
+    "subcategory": "burst pipe",
+    "location_text": "Jagatpura roadside",
+    "duration_days": 3,
+    "severity": 6,
+    "infrastructure": "water pipe"
+  },
+  "0bb49b6a632ec4c728a1fdc5a7890fb16dce6b46a46371efd2d1230f326611a1": {
+    "category": "water_leak",
+    "subcategory": "burst pipe",
+    "location_text": "जगतपुरा में सड़क किनारे",
+    "duration_days": 3,
+    "severity": 7,
+    "infrastructure": "water pipe"
+  },
+  "270a415e3165b85c8d57898b616f831fab0826a8af047aeec5c7fb2cfbb74381": {
+    "category": "other",
+    "subcategory": "exposed wire",
+    "location_text": "Malviya Nagar",
+    "duration_days": null,
+    "severity": 9,
+    "infrastructure": "electrical wire"
+  },
+  "7e3a2f11e3bef77de1749ffaccbae3dc1a9dd8a85b21ec70cb6fff2a08e86723": {
+    "category": "road_damage",
+    "subcategory": "broken tiles",
+    "location_text": "C-Scheme",
+    "duration_days": null,
+    "severity": 7,
+    "infrastructure": "footpath"
+  },
+  "1ce87b1f4df1f4ce8ed5fbd7e4033158c801732c976359e00fa19a564e316d0f": {
+    "category": "road_damage",
+    "subcategory": "fallen tree branch",
+    "location_text": "बानी पार्क में सड़क किनारे",
+    "duration_days": null,
+    "severity": 9,
+    "infrastructure": "road edge"
+  },
+  "acdda90cec24688b981b242c9b871d2a4f6609ee4e055949f1f2e3c6389e76a0": {
+    "category": "waste",
+    "subcategory": "missed garbage collection",
+    "location_text": "Near a small temple",
+    "duration_days": 5,
+    "severity": 6,
+    "infrastructure": "public bins"
+  },
+  "ca38cbdaa923b2fdd6f5740df3a500e275f1dced4023ee8ed2eab81be8d54bf9": {
+    "category": "road_damage",
+    "subcategory": "large pothole",
+    "location_text": "Vaishali Circle",
+    "duration_days": 6,
+    "severity": 8,
+    "infrastructure": "road surface"
+  },
+  "7e79d981ffc5fed1a8cddcb14f1cc91ae4e599f0ac88f90c1a03e2530ce43c1e": {
+    "category": "road_damage",
+    "subcategory": "large pothole",
+    "location_text": "Vaishali circle ke paas",
+    "duration_days": 6,
+    "severity": 7,
+    "infrastructure": "road surface"
+  },
+  "ce9d1721ef7ccaadb40a4fd2bb3e764fdb136001a7fb2e5d83904e31ed6331a6": {
+    "category": "road_damage",
+    "subcategory": "pothole",
+    "location_text": "वैशाली सर्किल के पास",
+    "duration_days": 6,
+    "severity": 7,
+    "infrastructure": "road surface"
+  },
+  "fd4475877a9d22261601d1d4a5372115bbbfd2395f6e2b3068421d566e2b95cf": {
+    "category": "streetlight",
+    "subcategory": "dim lights",
+    "location_text": "outside a girls hostel in Jagatpura",
+    "duration_days": null,
+    "severity": 4,
+    "infrastructure": "streetlight"
+  },
+  "7fec7af56c0c7a16762739bbfd97cd041c5c5334d2996e2b3f660ff8aedb4b44": {
+    "category": "waste",
+    "subcategory": "garbage pile",
+    "location_text": "Bani Park railway side",
+    "duration_days": null,
+    "severity": 5,
+    "infrastructure": "garbage bin"
+  },
+  "4afcb86a7dd1bd386bbc9347148a83138d8e9604d994def193f560aac45d8973": {
+    "category": "road_damage",
+    "subcategory": "broken tiles",
+    "location_text": "सी-स्कीम में स्टैच्यू सर्किल के पास",
+    "duration_days": null,
+    "severity": 3,
+    "infrastructure": "pavement"
+  },
+  "5babedc5b95f3fdf914693ad7f5574d2f18c1a0b266aa2b7eebc99429b6c3334": {
+    "category": "drainage",
+    "subcategory": "standing sewage",
+    "location_text": "near Raja Park market",
+    "duration_days": 3,
+    "severity": 6,
+    "infrastructure": "sewage drain"
+  },
+  "6fa64e9de84512d3b169aeb736940de4598534e754e4b7a664bf10a46ed53ddb": {
+    "category": "drainage",
+    "subcategory": "sewage overflow",
+    "location_text": "Raja Park market ke paas",
+    "duration_days": 3,
+    "severity": 6,
+    "infrastructure": "sewer"
+  },
+  "b094aeef96ade9b03d6e7509b130fbc0b54f7aa4723c37cb4f9703939f5225a3": {
+    "category": "drainage",
+    "subcategory": "drain overflow",
+    "location_text": "राजा पार्क मार्केट के पास",
+    "duration_days": 3,
+    "severity": 6,
+    "infrastructure": "drain"
+  },
+  "e0ddc948224acc0022bac24b10aa8b9b1598f28cf5c5e05ed9e1d5118ff323ac": {
+    "category": "waste",
+    "subcategory": "garbage pile",
+    "location_text": "lane beside Gaurav Tower",
+    "duration_days": null,
+    "severity": 5,
+    "infrastructure": "garbage"
+  },
+  "44c3f85f33853a16827b5d3e7277e7c65960ce687534b3269ea840fb8e8116ff": {
+    "category": "waste",
+    "subcategory": "garbage pile",
+    "location_text": "Near GT wala corner",
+    "duration_days": null,
+    "severity": 5,
+    "infrastructure": "public bins"
+  },
+  "d0710427c24a9eaf9ac951b938ba1da8005a99280e3bcb2de1ccdd223193ade9": {
+    "category": "waste",
+    "subcategory": "garbage pile",
+    "location_text": "गौरव टावर की साइड वाली गली",
+    "duration_days": null,
+    "severity": 5,
+    "infrastructure": "garbage"
+  },
+  "eeb00383a8d36b85ae8b86f8c5e607dd7b29fa13cff5add2aa655022f777a775": {
+    "category": "waste",
+    "subcategory": "garbage pile",
+    "location_text": "Gaurav Tower",
+    "duration_days": null,
+    "severity": 5,
+    "infrastructure": "lane"
+  },
+  "a20513f4bdde1485749cacce6666fca05330e2973f03ce6247c538e7d0d9fe51": {
+    "category": "waste",
+    "subcategory": "garbage pile",
+    "location_text": "GT ke side",
+    "duration_days": null,
+    "severity": 3,
+    "infrastructure": "garbage"
+  },
+  "f11b61f99e669f6aea44d61dd52d94346830175eaa48f5101a7d046614b0499a": {
+    "category": "waste",
+    "subcategory": "garbage pile",
+    "location_text": "गौरव टावर के पास",
+    "duration_days": null,
+    "severity": 5,
+    "infrastructure": "garbage"
+  },
+  "b9efcbc627de529cc9059c792255b4d68582f24bb4f369c5575d3bcd4cc14516": {
+    "category": "waste",
+    "subcategory": "garbage pile",
+    "location_text": "side lane near Gaurav Tower",
+    "duration_days": null,
+    "severity": 5,
+    "infrastructure": "garbage"
+  },
+  "9a5b473d1fcd1f22ab8a4f8394bb962f31d089936c1696013e100b169e3f3d94": {
+    "category": "waste",
+    "subcategory": "garbage pile",
+    "location_text": "Gaurav Tower ke side corner pe",
+    "duration_days": null,
+    "severity": 5,
+    "infrastructure": "public bins"
+  },
+  "677682c774c891028598e049ab6b7c1a2521612eef9c00350dd51005b8117c61": {
+    "category": "waste",
+    "subcategory": "garbage pile",
+    "location_text": "गौरव टावर के पास वाली गली",
+    "duration_days": null,
+    "severity": 5,
+    "infrastructure": "garbage"
+  },
+  "70b655e4151ff100a3fac2c563b8ce5372ede5948c73b5adb4afef7959207acb": {
+    "category": "drainage",
+    "subcategory": "loose cover",
+    "location_text": "Malviya Nagar Sector 3",
+    "duration_days": null,
+    "severity": 9,
+    "infrastructure": "drain cover"
+  },
+  "69599a8a0a08bb8fc780a4a4409764a971b316048a8718fd276841ed399e6ad3": {
+    "category": "streetlight",
+    "subcategory": "tilted pole",
+    "location_text": "Jhotwara",
+    "duration_days": null,
+    "severity": 9,
+    "infrastructure": "streetlight pole"
+  },
+  "f9d86b1a8e7d79745015e21c1a820f6d3cb56c0d2dba994ac76e2e18b4f8f33b": {
+    "category": "other",
+    "subcategory": "traffic signal failure",
+    "location_text": "Sanganer main road",
+    "duration_days": null,
+    "severity": 9,
+    "infrastructure": "traffic signal"
+  },
+  "fd6a21ef1e6462e05a4604e75ef69e5bd6a50d18e615bbbf793e70ef8b1c9423": {
+    "category": "streetlight",
+    "subcategory": "light failure",
+    "location_text": "Sanganer main road ka signal",
+    "duration_days": null,
+    "severity": 9,
+    "infrastructure": "streetlight"
+  },
+  "171fb34ab722f6dcd76d2e583e10a761535ea1d7eee423f2e86901e26dbe944f": {
+    "category": "waste",
+    "subcategory": "garbage pile",
+    "location_text": "opposite SMS Hospital gate 2",
+    "duration_days": null,
+    "severity": 5,
+    "infrastructure": "garbage"
+  },
+  "0feb727619d6c577f683da30e4783cf48877ea21f617d9dbc45578a8eeff7663": {
+    "category": "waste",
+    "subcategory": "garbage pile",
+    "location_text": "SMS gate 2 opposite patients ke entrance",
+    "duration_days": null,
+    "severity": 5,
+    "infrastructure": "garbage"
+  },
+  "db22bc22a0e0e5112b0d63abff9d8b3e0f5f69f68120a6730d8407380e1c33c1": {
+    "category": "waste",
+    "subcategory": "garbage pile",
+    "location_text": "एसएमएस अस्पताल गेट 2 के सामने",
+    "duration_days": null,
+    "severity": 5,
+    "infrastructure": "road"
+  },
+  "4bdaa3326177ac3e7739de199d1a5a870c2e03f9e0b5d27b9b05929b507b9048": {
+    "category": "waste",
+    "subcategory": "garbage pile",
+    "location_text": "opposite SMS Hospital Gate 2",
+    "duration_days": 1,
+    "severity": 5,
+    "infrastructure": "garbage"
+  },
+  "4e37fd3240fce7f5bc8ee86daf5f5dbb74e5d273432b9416db86f85e6cc0a9f8": {
+    "category": "other",
+    "subcategory": "unknown",
+    "location_text": null,
+    "duration_days": null,
+    "severity": 3,
+    "infrastructure": "unknown"
+  },
+  "ab08b61c535f3164fb957627f7e19a0341bb249b28162c241c498437bf0891f2": {
+    "category": "waste",
+    "subcategory": "garbage pile",
+    "location_text": "hospital gate 2 ke saamne",
+    "duration_days": null,
+    "severity": 3,
+    "infrastructure": "garbage"
+  },
+  "c8e5c650b882d7c47eed0211a4e5b936f74fe4bb274ced438705bd3f38887e8c": {
+    "category": "waste",
+    "subcategory": "garbage spill",
+    "location_text": "एसएमएस गेट नंबर 2 के सामने",
+    "duration_days": null,
+    "severity": 5,
+    "infrastructure": "road"
+  },
+  "749578eaf5ede49ba199a649052ce55793c59426d55861516068ef788ad92bb5": {
+    "category": "waste",
+    "subcategory": "garbage pile",
+    "location_text": "opposite SMS Hospital gate 2",
+    "duration_days": null,
+    "severity": 5,
+    "infrastructure": "garbage"
+  },
+  "d75596fbaac5e0a658a540d09f633bad09b457f32dc6a072cb172a3265f3bb62": {
+    "category": "waste",
+    "subcategory": "garbage on road",
+    "location_text": "SMS gate 2 ke opposite",
+    "duration_days": null,
+    "severity": 5,
+    "infrastructure": "road"
+  },
+  "0c9ad9c975fb7e0e360374303ebb84b1f28df2ed24213179eee48f51b98993bf": {
+    "category": "waste",
+    "subcategory": "garbage pile",
+    "location_text": "एसएमएस हॉस्पिटल गेट 2 के सामने",
+    "duration_days": 0,
+    "severity": 5,
+    "infrastructure": "garbage"
+  },
+  "4045b3ef9936e3c466b71f4a5738f14efcf3d914322e046a39a1eafda3dae6b4": {
+    "category": "road_damage",
+    "subcategory": "obstruction",
+    "location_text": "Vaishali Nagar, service lane",
+    "duration_days": null,
+    "severity": 6,
+    "infrastructure": "road"
+  },
+  "9a372c39a60fa99b3e4897ba8e7e4e14e61d6102d8e3aad06f947683a8d29dee": {
+    "category": "road_damage",
+    "subcategory": "tree branch",
+    "location_text": "Vaishali Nagar service lane",
+    "duration_days": null,
+    "severity": 6,
+    "infrastructure": "road"
+  },
+  "1948cee3920bc6f4b9f472292fe110819fb7afb7f9660053e572ea60132cacf5": {
+    "category": "other",
+    "subcategory": "tree fallen",
+    "location_text": "वैशाली नगर की सर्विस लेन",
+    "duration_days": null,
+    "severity": 7,
+    "infrastructure": "road"
+  },
+  "d78e4b8573e163d9f09de04f2ab8f512b1c24420f267eb611cb8d5e3e735529a": {
+    "category": "water_leak",
+    "subcategory": "burst pipe",
+    "location_text": "C-Scheme Ashok Marg",
+    "duration_days": 1,
+    "severity": 7,
+    "infrastructure": "water pipe"
+  },
+  "09d71b68fd75ef4f846f2bb916830670924a5e733b778a92d2847a2af1d72460": {
+    "category": "waste",
+    "subcategory": "garbage pile",
+    "location_text": "Raja Park main market",
+    "duration_days": null,
+    "severity": 5,
+    "infrastructure": "public bin"
+  },
+  "b74b885c8ee8dea820b0c03fd2fcff89b171fafe35d1ad61d30fd35d9e850edf": {
+    "category": "drainage",
+    "subcategory": "open manhole",
+    "location_text": "जगतपुरा",
+    "duration_days": null,
+    "severity": 9,
+    "infrastructure": "manhole cover"
+  },
+  "cc7a4b051a961719dae974d5a5b7100bea72262a011c48733271fa436465aa3c": {
+    "category": "water_leak",
+    "subcategory": "burst pipe",
+    "location_text": "part of Bani Park",
+    "duration_days": 1,
+    "severity": 9,
+    "infrastructure": "water pipe"
+  },
+  "8f6e1fc9b7f453a7eb7c5c6d7c0ccaddf72c7e22ab4668702b8901abd5a3a89d": {
+    "category": "water_leak",
+    "subcategory": "no water supply",
+    "location_text": "Bani Park",
+    "duration_days": 1,
+    "severity": 6,
+    "infrastructure": "water supply pipe"
+  },
+  "5248fd4924e1a7a8c5890044d73c9f1d80bb11e6b51b281eb1d762173eb62871": {
+    "category": "water_leak",
+    "subcategory": "burst pipe",
+    "location_text": "बानी पार्क",
+    "duration_days": 1,
+    "severity": 7,
+    "infrastructure": "water pipe"
+  },
+  "cc9d5b535a44999d5cdd4b160b08d754695f8d00948621b8853f7974d209ee84": {
+    "category": "road_damage",
+    "subcategory": "deep pothole",
+    "location_text": "right before Gaurav Tower turn",
+    "duration_days": null,
+    "severity": 9,
+    "infrastructure": "road surface"
+  },
+  "aada40a06de7a81eb30de680ad3dc4539b3faa40f561ffe455c1f448bf8692cc": {
+    "category": "streetlight",
+    "subcategory": "flickering",
+    "location_text": "C scheme",
+    "duration_days": null,
+    "severity": 3,
+    "infrastructure": "streetlight"
+  },
+  "06727774a1b65e3cecc86f352d23ff444da087e77a5d27e3b932a2e2bf2b1aaf": {
+    "category": "drainage",
+    "subcategory": "slab breakage",
+    "location_text": "झोटवाड़ा",
+    "duration_days": null,
+    "severity": 9,
+    "infrastructure": "drain cover"
+  },
+  "963d331ebd200c8f31a6d4cccedefac1408442108340fe47de512ccde6a8aa9d": {
+    "category": "road_damage",
+    "subcategory": "broken road",
+    "location_text": "near Sanganer flyover",
+    "duration_days": null,
+    "severity": 8,
+    "infrastructure": "road surface"
+  },
+  "437350c80a92a3a81b8f691654b2a2815905178e4b347a77ba981fbd8b3b9b50": {
+    "category": "other",
+    "subcategory": "stray dogs",
+    "location_text": "Vaishali Nagar park ke bahar",
+    "duration_days": null,
+    "severity": 5,
+    "infrastructure": "park area"
+  },
+  "c0308a123052f094c3f85f9cb164f905aca4297c0015f13284fb2f6568d80f4e": {
+    "category": "water_leak",
+    "subcategory": "continuous leakage",
+    "location_text": "राजा पार्क",
+    "duration_days": 2,
+    "severity": 6,
+    "infrastructure": "water pipe"
+  },
+  "26397f3a3616efe1a5ac017a76e0de3510c003e0cd48385b7ed44e3b7dce0408": {
+    "category": "water_leak",
+    "subcategory": "burst pipe",
+    "location_text": "Raja Park",
+    "duration_days": 2,
+    "severity": 7,
+    "infrastructure": "water pipe"
+  },
+  "5ebb012078822275f803e51e3f4c3428eab4c8096a566a37450cbd088f7325aa": {
+    "category": "water_leak",
+    "subcategory": "leaking pipe",
+    "location_text": "Raja Park",
+    "duration_days": 2,
+    "severity": 7,
+    "infrastructure": "water pipe"
+  },
+  "c0edce58647efc6bd52d416833dd5e0cf4a0ff9be62b95c5c3db8f7dfdce1a1d": {
+    "category": "waste",
+    "subcategory": "standing water",
+    "location_text": "near Jagatpura",
+    "duration_days": null,
+    "severity": 5,
+    "infrastructure": "water"
+  },
+  "fab30e5dd57021dcaf7243ae643931ab1c8b535d22b6fbc7a704d65ccb986ab3": {
+    "category": "drainage",
+    "subcategory": "open manhole",
+    "location_text": "Mansarovar New Sanganer Road crossing",
+    "duration_days": null,
+    "severity": 10,
+    "infrastructure": "manhole"
+  },
+  "10f8624aadea5b533bbee654d0d478b13f915832af6c0869a8383e1cc42e580a": {
+    "category": "drainage",
+    "subcategory": "open manhole",
+    "location_text": "Mansarovar New Sanganer Road crossing ke paas",
+    "duration_days": null,
+    "severity": 10,
+    "infrastructure": "manhole"
+  },
+  "fc2e331a35c1e0a023922a42f4792f358b73bea5e30af3262b2fca63a7b20158": {
+    "category": "drainage",
+    "subcategory": "open manhole",
+    "location_text": "मानसरोवर न्यू सांगानेर रोड चौराहे के पास",
+    "duration_days": null,
+    "severity": 10,
+    "infrastructure": "manhole"
+  },
+  "73f8a94036277d89a28d52208d2707958af83200c40952ecf6c6329f6c377681": {
+    "category": "streetlight",
+    "subcategory": "light failure",
+    "location_text": "near Bani Park bus stop",
+    "duration_days": 5,
+    "severity": 6,
+    "infrastructure": "streetlight"
+  },
+  "7f9fedd2723db846cb84d5329c7cea1b6e3aaee8ad5c348e2a0df1bd60e59c76": {
+    "category": "road_damage",
+    "subcategory": "debris on road",
+    "location_text": "Vaishali Nagar nursery circle ke paas",
+    "duration_days": null,
+    "severity": 3,
+    "infrastructure": "road"
+  },
+  "f412fb7ef4a28d1fd7663c8b6f04df1bcc3820a429e7d10aec18db21b8c38699": {
+    "category": "waste",
+    "subcategory": "garbage spill",
+    "location_text": "जगतपुरा में पार्क के बाहर",
+    "duration_days": null,
+    "severity": 5,
+    "infrastructure": "road"
+  },
+  "7383889625194df400e38fe3e0e570a9b5747458d8d8ea638c219dbe6c77fb62": {
+    "category": "road_damage",
+    "subcategory": "deep pothole",
+    "location_text": "outside Raja Park Gurudwara",
+    "duration_days": 7,
+    "severity": 8,
+    "infrastructure": "road surface"
+  },
+  "c1839e14bb49dcf1cb745bbb85f34906deb778fadfe0deabd4e053944cec9a49": {
+    "category": "road_damage",
+    "subcategory": "large pothole",
+    "location_text": "Raja Park gurudwara ke bahar",
+    "duration_days": 7,
+    "severity": 6,
+    "infrastructure": "road surface"
+  },
+  "f9b8d12b618aef04417f09198cd2e66569c6b70f909e7cf6b74370358b2c8bd3": {
+    "category": "road_damage",
+    "subcategory": "large pothole",
+    "location_text": "राजा पार्क गुरुद्वारे के बाहर",
+    "duration_days": 7,
+    "severity": 6,
+    "infrastructure": "road surface"
+  },
+  "7bad64b21999a2ab23c8fc5ffbfb03e09dc43f880c4adf1b134e7aeaae8048c7": {
+    "category": "drainage",
+    "subcategory": "poor drainage",
+    "location_text": "Ajmer Road near Vaishali Nagar",
+    "duration_days": null,
+    "severity": 5,
+    "infrastructure": "drainage system"
+  },
+  "6b3168bec3866c2ca5a91344ed32665c139a2cb2c77e58726c26509fb3dc45fc": {
+    "category": "drainage",
+    "subcategory": "broken cover",
+    "location_text": "Sanganer",
+    "duration_days": null,
+    "severity": 9,
+    "infrastructure": "drain cover"
+  },
+  "d3074e1de72b641eb6d4ae8283436aed1f87e78941ed36d403f58295de91609d": {
+    "category": "streetlight",
+    "subcategory": "dim lights",
+    "location_text": "सी-स्कीम अशोक मार्ग पर",
+    "duration_days": null,
+    "severity": 3,
+    "infrastructure": "streetlight"
+  },
+  "72067adc267536a106979ecd5894b240363497fb30ea34c51bb55448da93985b": {
+    "category": "waste",
+    "subcategory": "missed garbage collection",
+    "location_text": "Jhotwara lane",
+    "duration_days": 3,
+    "severity": 5,
+    "infrastructure": "garbage bin"
+  },
+  "b7cd35cd4bd9881bf5002f727c12afb778d42bd9faf508bd91f77314ef4f77ef": {
+    "category": "waste",
+    "subcategory": "missed garbage collection",
+    "location_text": "Jhotwara wali gali",
+    "duration_days": 3,
+    "severity": 5,
+    "infrastructure": "garbage bins"
+  },
+  "3d3192ef6025f82e43087eb89c8dbbf9ed9e6b92704545bb1f10c1cc7627b4af": {
+    "category": "waste",
+    "subcategory": "missed garbage collection",
+    "location_text": "झोटवाड़ा की गली",
+    "duration_days": 3,
+    "severity": 5,
+    "infrastructure": "public bins"
+  },
+  "fdd5ecb48d61c979dc330e4829af6c6ee70af809af521012bf95d80f97fcd4b3": {
+    "category": "road_damage",
+    "subcategory": "broken path",
+    "location_text": "beside SMS Hospital",
+    "duration_days": null,
+    "severity": 7,
+    "infrastructure": "footpath"
+  },
+  "ec1b79317f30bb41cfab2b1e7f052ba22eba1ee4b0e74363a371fe37ed90b677": {
+    "category": "water_leak",
+    "subcategory": "low pressure",
+    "location_text": "Malviya Nagar sec 2",
+    "duration_days": null,
+    "severity": 3,
+    "infrastructure": "water supply pipe"
+  },
+  "3181a9ef205f0dc566a36067d70b2e676dc9221c425076335fac457543de3a6e": {
+    "category": "other",
+    "subcategory": "exposed wire",
+    "location_text": "वैशाली नगर में पार्क की बाउंड्री के पास",
+    "duration_days": null,
+    "severity": 9,
+    "infrastructure": "electric wire"
+  },
+  "7f1cfad0c7531d087738f33f1f6a8e4b40a6459b49c58c214c0454e02faa7652": {
+    "category": "other",
+    "subcategory": "traffic signal issue",
+    "location_text": "near Gaurav Tower",
+    "duration_days": null,
+    "severity": 4,
+    "infrastructure": "traffic signal"
+  },
+  "da6194309f553577f94f665d145f1988f7487cc83d3e31a941e66ef2a975b765": {
+    "category": "other",
+    "subcategory": "flashing signal",
+    "location_text": "GT road near signal",
+    "duration_days": null,
+    "severity": 4,
+    "infrastructure": "traffic signal"
+  },
+  "960434fee8cf0af317f8c1f0f449a8de35426101acefa4e0d356186f3d7a34c4": {
+    "category": "other",
+    "subcategory": "traffic signal issue",
+    "location_text": "गौरव टावर के पास",
+    "duration_days": null,
+    "severity": 5,
+    "infrastructure": "traffic signal"
+  },
+  "e82aec975d351a3bb91de4922c08cbb97b5682a566f8280bc920c1c10bdef517": {
+    "category": "road_damage",
+    "subcategory": "cracked surface",
+    "location_text": "near Jagatpura railway crossing",
+    "duration_days": null,
+    "severity": 8,
+    "infrastructure": "road surface"
+  },
+  "14ce41226394506b67d503ca16c3e45a82a28f0c29870f4bea31ef8c6034ded4": {
+    "category": "drainage",
+    "subcategory": "odour issue",
+    "location_text": "Bani Park",
+    "duration_days": null,
+    "severity": 3,
+    "infrastructure": "drain"
+  },
+  "7b3342062ec78fb86e4746144199a8d5bd735152f9df7e8e47058b8a3fe1dceb": {
+    "category": "waste",
+    "subcategory": "garbage pile",
+    "location_text": "सांगानेर में खाली प्लॉट के बाहर",
+    "duration_days": null,
+    "severity": 5,
+    "infrastructure": "garbage"
+  },
+  "6a70b795ca3fc0f262c9839ab42677001b0f1e404a65673637b6fcf716f7db5c": {
+    "category": "water_leak",
+    "subcategory": "burst pipe",
+    "location_text": "Vaishali Nagar Amrapali Circle",
+    "duration_days": null,
+    "severity": 9,
+    "infrastructure": "water pipe"
+  },
+  "586d124432aea3bad3848e8a401ef00d24f9eefe6c978bef0873f0ec4cef7e1b": {
+    "category": "water_leak",
+    "subcategory": "burst pipe",
+    "location_text": "Amrapali circle Vaishali",
+    "duration_days": null,
+    "severity": 9,
+    "infrastructure": "water pipe"
+  },
+  "4b906fd9907022ea8dd66cc10fe08e4821b79f3519038b77e0596686c409bdb9": {
+    "category": "water_leak",
+    "subcategory": "burst pipe",
+    "location_text": "वैशाली नगर अम्रपाली सर्किल के पास",
+    "duration_days": null,
+    "severity": 7,
+    "infrastructure": "water pipe"
+  },
+  "c6e5cb90187c5c074dc354cc60e28fac3faa8abbbdec1647a9aeace31846f392": {
+    "category": "streetlight",
+    "subcategory": "obstructed view",
+    "location_text": "C-Scheme Tilak Marg",
+    "duration_days": null,
+    "severity": 3,
+    "infrastructure": "streetlight"
+  },
+  "10b18aae88a45a136054784092f88fbd2f41d03f78cb39aa878da22e4e959efa": {
+    "category": "other",
+    "subcategory": "stray cows",
+    "location_text": "Raja Park",
+    "duration_days": null,
+    "severity": 4,
+    "infrastructure": "road"
+  },
+  "046097aee192940b43e49d3732ae79e6c199e305c6a54e6e46ff4b9d99f6a92b": {
+    "category": "road_damage",
+    "subcategory": "dirt and debris",
+    "location_text": "जगतपुरा में सड़क किनारे",
+    "duration_days": null,
+    "severity": 3,
+    "infrastructure": "road edge"
+  },
+  "a5e8b61ff8f9e87f6b0946ea88de1cad11fbc715e218ddd22fe9dce3479699be": {
+    "category": "drainage",
+    "subcategory": "drain overflow",
+    "location_text": "near Sanganer bus stand",
+    "duration_days": 4,
+    "severity": 6,
+    "infrastructure": "sewer line"
+  },
+  "8f965aac605f7180e4ba4aaedaf7d1ac4a92bf9fe8ff4d58baefaf319274ab06": {
+    "category": "drainage",
+    "subcategory": "drain overflow",
+    "location_text": "Sanganer bus stand ke paas",
+    "duration_days": 4,
+    "severity": 6,
+    "infrastructure": "sewer"
+  },
+  "ebd7765eff6a8bb06fcfa895d2189a18b144eec59057df0c72d4670117bc4110": {
+    "category": "drainage",
+    "subcategory": "drain overflow",
+    "location_text": "सांगानेर बस स्टैंड के पास",
+    "duration_days": 4,
+    "severity": 6,
+    "infrastructure": "drain"
+  },
+  "de73a1eb0f3289cf9d1fd5d7c0a1cf17933e53fd66d167c3e632d905deabfcfe": {
+    "category": "streetlight",
+    "subcategory": "sparking",
+    "location_text": "near Jhotwara market",
+    "duration_days": null,
+    "severity": 7,
+    "infrastructure": "streetlight pole"
+  },
+  "2cabb37603aac3d7ca737dfa15f8ce8f2a02aaa63bbac2c6060d88462be1a398": {
+    "category": "other",
+    "subcategory": "broken bench",
+    "location_text": "Mansarovar park",
+    "duration_days": null,
+    "severity": 5,
+    "infrastructure": "bench"
+  },
+  "3812a6d71569585e625f3291f9aa8e94d701e3b5c159c9d91925fc1630edee2e": {
+    "category": "drainage",
+    "subcategory": "mosquito breeding",
+    "location_text": "बानी पार्क में नाले के पास",
+    "duration_days": null,
+    "severity": 3,
+    "infrastructure": "drain"
+  },
+  "bfc459aac25c2ba484dec7e4e43a885989e775246ebcb39e7f99bafc8bcf95a7": {
+    "category": "other",
+    "subcategory": "accessible junction box",
+    "location_text": "Raja Park market near footpath",
+    "duration_days": null,
+    "severity": 7,
+    "infrastructure": "junction box"
+  },
+  "404b08917abf250e0c4517fefbbe5cb8c085a796ffabef73e7af6a19f2d5e824": {
+    "category": "other",
+    "subcategory": "open electrical box",
+    "location_text": "Raja Park market ke footpath pe",
+    "duration_days": null,
+    "severity": 9,
+    "infrastructure": "electrical box"
+  },
+  "34f8f016fa115471ce4e855a481e142caca9e6b47f7491efcd14c3b0c4468e21": {
+    "category": "streetlight",
+    "subcategory": "open electrical box",
+    "location_text": "राजा पार्क मार्केट के फुटपाथ पर",
+    "duration_days": null,
+    "severity": 9,
+    "infrastructure": "electrical box"
+  },
+  "33359220669cf4680df05c446331e10d606f6815edbcabdcf1fdfefaaea24067": {
+    "category": "road_damage",
+    "subcategory": "pothole",
+    "location_text": "Bani Park collectorate road",
+    "duration_days": null,
+    "severity": 7,
+    "infrastructure": "road surface"
+  },
+  "22e95b5f75dfbdd9f0f0ae8458fa7ddfc5e1ce812c1ef54f565ec7f79372e40c": {
+    "category": "waste",
+    "subcategory": "broken bin",
+    "location_text": "Jagatpura",
+    "duration_days": null,
+    "severity": 6,
+    "infrastructure": "public dustbin"
+  },
+  "2a723b2f62a5298fdc7d92000f5d1215825c256d1656f7c04851b9df2542e011": {
+    "category": "road_damage",
+    "subcategory": "bicycle stand",
+    "location_text": "मालवीय नगर",
+    "duration_days": null,
+    "severity": 3,
+    "infrastructure": "footpath"
+  },
+  "73f76efb56f7a1e6da239815c49ffada0f3fcb80f8255f5ffbeab35c7d0390d3": {
+    "category": "streetlight",
+    "subcategory": "lights not working",
+    "location_text": "one stretch near Sanganer railway station",
+    "duration_days": 2,
+    "severity": 5,
+    "infrastructure": "streetlight"
+  },
+  "e1fe39e1739efea01fdb40e7bdbd9ca20c93ae93bc6dde48a2d1455e3690a3fb": {
+    "category": "streetlight",
+    "subcategory": "light failure",
+    "location_text": "Sanganer railway station ke paas wali road",
+    "duration_days": 2,
+    "severity": 5,
+    "infrastructure": "streetlight"
+  },
+  "7fc688d27cd4a2f7e89736f0c01f412eb42a0748ff5a109523668a02d5c71362": {
+    "category": "streetlight",
+    "subcategory": "light failure",
+    "location_text": "सांगानेर रेलवे स्टेशन के पास",
+    "duration_days": 2,
+    "severity": 4,
+    "infrastructure": "streetlight"
+  },
+  "1d9bee334fdc81d1a8f9212b9a5a9182bacbd044e16e0f8fed6be04835b21329": {
+    "category": "drainage",
+    "subcategory": "missing grate",
+    "location_text": "Vaishali Nagar market near the road",
+    "duration_days": null,
+    "severity": 9,
+    "infrastructure": "drainage grate"
+  },
+  "f32bef15e1677e12d6ad48cd85b96cdb53d607930b423c94408c482989e2ff46": {
+    "category": "road_damage",
+    "subcategory": "broken metal piece",
+    "location_text": "C scheme",
+    "duration_days": null,
+    "severity": 7,
+    "infrastructure": "road divider"
+  },
+  "2a70468900632711cce864700f0e5f151ceeee026ddaff2bc7ee76efc2759418": {
+    "category": "water_leak",
+    "subcategory": "continuous leak",
+    "location_text": "झोटवाड़ा में पानी की टंकी के पास",
+    "duration_days": null,
+    "severity": 6,
+    "infrastructure": "water pipe"
+  },
+  "1cd5d5e006f23509ab858f7f735489c8de82272399c4f890d2f59b5866bd4e78": {
+    "category": "other",
+    "subcategory": "stray cattle",
+    "location_text": "New Sanganer Road",
+    "duration_days": 1,
+    "severity": 8,
+    "infrastructure": "road"
+  },
+  "e0b14242b77a5d3aebd3fb60fb486f69c294b0a1cda32dc085dea5156f961d6a": {
+    "category": "drainage",
+    "subcategory": "water accumulation",
+    "location_text": "near a petrol pump",
+    "duration_days": 2,
+    "severity": 5,
+    "infrastructure": "road"
+  },
+  "3e1a53b41aec7451d29eb7c1cbdd4590e866019dd1e7df2a548f152190aa3bf9": {
+    "category": "road_damage",
+    "subcategory": "crumbling edge",
+    "location_text": "Vaishali Nagar Gandhi Path",
+    "duration_days": null,
+    "severity": 8,
+    "infrastructure": "road edge"
+  },
+  "db054e0c82333e2d18a656d1f4f64bcd7144417676b730f4b680ec329ed57825": {
+    "category": "streetlight",
+    "subcategory": "dim light",
+    "location_text": "Malviya Nagar sec 4, park ke paas",
+    "duration_days": null,
+    "severity": 3,
+    "infrastructure": "streetlight"
+  },
+  "f57a9ef3db0663ad1c5e66afbfe80112a3c046e05ccbc0804e1cddccd3405aa7": {
+    "category": "waste",
+    "subcategory": "garbage spread",
+    "location_text": "जगतपुरा रेलवे क्रॉसिंग के पास",
+    "duration_days": null,
+    "severity": 5,
+    "infrastructure": "road"
+  },
+  "1fa880c89226211683e9e3ec7266d6e8e9344641b2b48746cca6b8dd8791813b": {
+    "category": "water_leak",
+    "subcategory": "sewer leak",
+    "location_text": "near C-Scheme Panch Batti",
+    "duration_days": 2,
+    "severity": 6,
+    "infrastructure": "sewer pipe"
+  },
+  "821202e6451b3cea32a07c0c02e01cbdead0ca225045b158e1385a27b966d933": {
+    "category": "road_damage",
+    "subcategory": "loose slab",
+    "location_text": "Bani Park",
+    "duration_days": null,
+    "severity": 8,
+    "infrastructure": "footpath"
+  },
+  "2a8ad10168a0c6cf574ddad18daacb0f023553af846d68b660045e60e4f3201d": {
+    "category": "waste",
+    "subcategory": "garbage overflow",
+    "location_text": "राजा पार्क",
+    "duration_days": null,
+    "severity": 5,
+    "infrastructure": "public bins"
+  },
+  "7da778ccc5f7eceb831770dbcbe2dd35cf847d70c03bdea0d0ffb670208cc9a2": {
+    "category": "streetlight",
+    "subcategory": "pole leaning",
+    "location_text": "Jhotwara Road outside a shop",
+    "duration_days": null,
+    "severity": 6,
+    "infrastructure": "streetlight pole"
+  },
+  "5ac206f9865cb27e3a2b325163c9cfb6181246d5af4a6ec3de06fa148df60dfb": {
+    "category": "drainage",
+    "subcategory": "missing grill",
+    "location_text": "Sanganer market",
+    "duration_days": null,
+    "severity": 9,
+    "infrastructure": "drain grill"
+  },
+  "ff0ae1c2a21c31ee9c7515c64067414de198ba8603f8dd2c2883678a2a752780": {
+    "category": "water_leak",
+    "subcategory": "water accumulation",
+    "location_text": "वैशाली नगर, अम्रपाली सर्किल के पास",
+    "duration_days": 2,
+    "severity": 6,
+    "infrastructure": "road surface"
+  },
+  "f872cf701c658283ed86a4743a13ec87b5f8eb6f2f0981acf1db95775cc8a12c": {
+    "category": "waste",
+    "subcategory": "burning garbage",
+    "location_text": "near Mansarovar Sector 8",
+    "duration_days": null,
+    "severity": 6,
+    "infrastructure": "empty plot"
+  },
+  "1622c9584b074004eca80945bd153cd05f0197ee8d8e2018561325a5f3cb71d7": {
+    "category": "water_leak",
+    "subcategory": "constant leakage",
+    "location_text": "Jagatpura, near water tanker point",
+    "duration_days": null,
+    "severity": 5,
+    "infrastructure": "water pipe"
+  },
+  "c8f8eaac1789efc2584353f134d4d1ec1e69ffd3aae2d3669de26e0f9d9c7e01": {
+    "category": "other",
+    "subcategory": "hanging tree branch",
+    "location_text": "सी-स्कीम",
+    "duration_days": null,
+    "severity": 7,
+    "infrastructure": "tree branch"
+  },
+  "a3f725c1c5e2902ce36a903354cf9ece3b1c4202e7ee2f7e87e9c8bf1b37e437": {
+    "category": "drainage",
+    "subcategory": "open manhole",
+    "location_text": "Vaishali Nagar Queens Road",
+    "duration_days": 1,
+    "severity": 10,
+    "infrastructure": "manhole"
+  },
+  "3537a2e41dc8e4d5daf6cbf0019da03d2f5273c34062900c4829106877e18fa0": {
+    "category": "drainage",
+    "subcategory": "open manhole",
+    "location_text": "Queens Road Vaishali",
+    "duration_days": 1,
+    "severity": 10,
+    "infrastructure": "manhole"
+  },
+  "15e60274486f52cbf3ec987cdfd44664d54b3aceba6841f3517b41ed1fe6dd94": {
+    "category": "drainage",
+    "subcategory": "open manhole",
+    "location_text": "वैशाली नगर क्वींस रोड",
+    "duration_days": 1,
+    "severity": 10,
+    "infrastructure": "manhole"
+  },
+  "d35bc3cbcbd07deb99ddd3e54edef6179c4af9cfb61c557210e06b0b37fe117e": {
+    "category": "water_leak",
+    "subcategory": "muddy water",
+    "location_text": "Raja Park",
+    "duration_days": 0,
+    "severity": 5,
+    "infrastructure": "water supply pipe"
+  },
+  "229d38b459ce5274fb3c574d6802447babaf0b25612cab99cf01810bfa045434": {
+    "category": "streetlight",
+    "subcategory": "light failure",
+    "location_text": "Jhotwara market ke paas",
+    "duration_days": null,
+    "severity": 4,
+    "infrastructure": "traffic signal"
+  },
+  "3f09c514a1a85f836e7cb9b8b815510a9ff7fa9fa90919e1a3028c981115e489": {
+    "category": "road_damage",
+    "subcategory": "large pothole",
+    "location_text": "सांगानेर में मेन रोड के किनारे",
+    "duration_days": null,
+    "severity": 8,
+    "infrastructure": "road surface"
+  },
+  "6205af73adca0434282557d037c6a9f6b680580428cb4a861fbe50a979c0b389": {
+    "category": "road_damage",
+    "subcategory": "blocked footpath",
+    "location_text": "near Gaurav Tower",
+    "duration_days": null,
+    "severity": 3,
+    "infrastructure": "footpath"
+  },
+  "ae37ac61ff66559ad2eba24dfdca1d7b83de2ef0141fff55d2efb312f14daeff": {
+    "category": "drainage",
+    "subcategory": "slow flow",
+    "location_text": "Bani Park",
+    "duration_days": null,
+    "severity": 3,
+    "infrastructure": "drain"
+  },
+  "3d5df3bf63ff4a27e117486dff80c9fe777c76ca513abeca31a20ba7ba71b6c7": {
+    "category": "streetlight",
+    "subcategory": "lights failure",
+    "location_text": "जगतपुरा में पार्क के पास",
+    "duration_days": null,
+    "severity": 4,
+    "infrastructure": "streetlight"
+  },
+  "912a6e9bbbc5979bbe01b867b4ed5e34cc17e741d68a3eb5208f9ad4a48610d0": {
+    "category": "road_damage",
+    "subcategory": "pothole",
+    "location_text": "emergency road outside SMS Hospital",
+    "duration_days": null,
+    "severity": 4,
+    "infrastructure": "road surface"
+  },
+  "5baa27f39a6a6c96896e025400d6e4508c18fd59c331043e8bc5e9ef78a86670": {
+    "category": "waste",
+    "subcategory": "garbage overflow",
+    "location_text": "Mansarovar sec 5",
+    "duration_days": null,
+    "severity": 6,
+    "infrastructure": "public dustbin"
+  },
+  "74bb6962b005af2a4e245467036d2ca79b960bfbabe3ee57009275e439028f5b": {
+    "category": "water_leak",
+    "subcategory": "burst pipe",
+    "location_text": "मालवीय नगर",
+    "duration_days": 1,
+    "severity": 7,
+    "infrastructure": "water pipe"
+  },
+  "4039aa88219a0963fbcb8d4c13464e66739cfbad08c09463d4752eb70db8ceca": {
+    "category": "road_damage",
+    "subcategory": "large pothole",
+    "location_text": "Jagatpura Akshay Patra crossing",
+    "duration_days": 5,
+    "severity": 8,
+    "infrastructure": "road surface"
+  },
+  "6317db8efd550d20f8b9c7ac7063bfe3c64a019eb49931f46fdbfc772eaa77e2": {
+    "category": "road_damage",
+    "subcategory": "large pothole",
+    "location_text": "Akshay Patra crossing Jagatpura",
+    "duration_days": 5,
+    "severity": 8,
+    "infrastructure": "road surface"
+  },
+  "fafa55bc26d4b79a55e38dda86472b51fccc4f598378a8e2c379c2913970f78a": {
+    "category": "road_damage",
+    "subcategory": "large pothole",
+    "location_text": "अक्षय पात्र चौराहे के पास",
+    "duration_days": 5,
+    "severity": 8,
+    "infrastructure": "road surface"
+  },
+  "4a8d819737448e1c6b61270709bfb695840aa454ca1586299b6d574f01b6bba0": {
+    "category": "other",
+    "subcategory": "stray dogs",
+    "location_text": "C-Scheme Central Park entrance",
+    "duration_days": null,
+    "severity": 3,
+    "infrastructure": "park area"
+  },
+  "992ca60f7bc37ef7f594adc0368ff30697a016bb675432cdf02192a68f49bdc4": {
+    "category": "drainage",
+    "subcategory": "plastic jam",
+    "location_text": "Gandhi Path, Vaishali Nagar",
+    "duration_days": null,
+    "severity": 6,
+    "infrastructure": "drain"
+  },
+  "83c32303353eb4cd5db243882eac2065590e8e06436b04c30dee29a92b64bbee": {
+    "category": "streetlight",
+    "subcategory": "damaged pole",
+    "location_text": "राजा पार्क में सड़क किनारे",
+    "duration_days": null,
+    "severity": 6,
+    "infrastructure": "streetlight pole"
+  },
+  "31f686c5aab19ed4016385dd87d5f99b4e3308e213efe415516524d6464a7b10": {
+    "category": "drainage",
+    "subcategory": "water logging",
+    "location_text": "under the Jhotwara flyover",
+    "duration_days": 1,
+    "severity": 6,
+    "infrastructure": "drain"
+  },
+  "790220f6235a79956474c4db296d0abdaba638cbb74febe988068fb0f31a867b": {
+    "category": "road_damage",
+    "subcategory": "uneven surface",
+    "location_text": "Sanganer me ek gali",
+    "duration_days": null,
+    "severity": 3,
+    "infrastructure": "road surface"
+  },
+  "731fde1571a9ace94539abaddf903121aa68ec8b12b4250665b5ebca91e1dce9": {
+    "category": "other",
+    "subcategory": "broken bench",
+    "location_text": "बानी पार्क",
+    "duration_days": null,
+    "severity": 3,
+    "infrastructure": "bench"
+  },
+  "ee24501cf64c89004dac259220c3a2518d7922b7694a7894aac5c11b47fb61eb": {
+    "category": "drainage",
+    "subcategory": "overflowing",
+    "location_text": "beside Malviya Nagar market",
+    "duration_days": null,
+    "severity": 5,
+    "infrastructure": "drain"
+  },
+  "fbd8f537e7c9c19f17976089f401554c22da33a3ec6b498e644b90f2167ad960": {
+    "category": "other",
+    "subcategory": "traffic signal issue",
+    "location_text": "C-Scheme",
+    "duration_days": null,
+    "severity": 6,
+    "infrastructure": "traffic signal"
+  },
+  "450fdf6c1e6eae3343a69887ca1571643353082bd2ff883e7bd27322c477c000": {
+    "category": "water_leak",
+    "subcategory": "low pressure",
+    "location_text": "जगतपुरा",
+    "duration_days": 3,
+    "severity": 4,
+    "infrastructure": "water supply pipe"
+  },
+  "40173a5929fd6bf0ae3beed7710f1a5cf803d942db19113571bbe89a3b7dd8be": {
+    "category": "other",
+    "subcategory": "hanging branch",
+    "location_text": "near Bani Park railway station",
+    "duration_days": null,
+    "severity": 5,
+    "infrastructure": "tree branch"
+  },
+  "38455d567aa16c557f6960dc14fd51f14aa0c8f552ae530c99e086881385f31d": {
+    "category": "road_damage",
+    "subcategory": "branch road hazard",
+    "location_text": "Bani Park railway station ke paas bada branch road",
+    "duration_days": null,
+    "severity": 9,
+    "infrastructure": "road surface"
+  },
+  "cd671642a84b4bc5a3e190c7662551b5389a7d216ee4bc9b142e2fd3c01f84b1": {
+    "category": "other",
+    "subcategory": "hanging tree branch",
+    "location_text": "बानी पार्क रेलवे स्टेशन के पास",
+    "duration_days": null,
+    "severity": 7,
+    "infrastructure": "tree branch"
+  },
+  "65a4292225bb429cdbee0aea20350bf7eada283d5cc63a55d7ebfcabe57c1184": {
+    "category": "streetlight",
+    "subcategory": "frequent failure",
+    "location_text": "Vaishali Nagar Amrapali Circle",
+    "duration_days": null,
+    "severity": 5,
+    "infrastructure": "streetlight"
+  },
+  "6bc421b4c9cdf17f3ca031ad773692d49a3b51a9dcb445e34bf460c4920a1215": {
+    "category": "waste",
+    "subcategory": "missed garbage collection",
+    "location_text": "Raja Park market",
+    "duration_days": 1,
+    "severity": 5,
+    "infrastructure": "public bins"
+  },
+  "e47726a6cf87e992d9358aa5065ac5ac0996892df0ca6c20cb69ff03f6e6d10a": {
+    "category": "road_damage",
+    "subcategory": "pothole",
+    "location_text": "मानसरोवर में न्यू सांगानेर रोड के पास",
+    "duration_days": null,
+    "severity": 6,
+    "infrastructure": "pavement"
+  },
+  "d862aad11cfa9d20749debf9006880138b1c830b51a212f5074a7a539d7d170b": {
+    "category": "other",
+    "subcategory": "exposed wire",
+    "location_text": "outside Sanganer bus stand",
+    "duration_days": null,
+    "severity": 9,
+    "infrastructure": "electrical wire"
+  },
+  "e9446f640a3cd01462cbd0149fe90487e8f411b7fd98f1caded7539f3997848d": {
+    "category": "other",
+    "subcategory": "exposed wire",
+    "location_text": "Sanganer bus stand ke bahar footpath ke paas",
+    "duration_days": null,
+    "severity": 10,
+    "infrastructure": "wire"
+  },
+  "56f1777572cdf8f57bf2d27e64ccba523a1ac7003da68adf81332d15b8744d49": {
+    "category": "other",
+    "subcategory": "exposed wire",
+    "location_text": "सांगानेर बस स्टैंड के बाहर फुटपाथ के पास",
+    "duration_days": null,
+    "severity": 10,
+    "infrastructure": "electric wire"
+  },
+  "08573953cc0da8fb9d506af09c6df81b8e70c93abfdaedfc636865d8dc7b944d": {
+    "category": "drainage",
+    "subcategory": "blocked drain",
+    "location_text": "beside Vaishali Nagar market",
+    "duration_days": 4,
+    "severity": 6,
+    "infrastructure": "drain"
+  },
+  "6da2b072747e5e40583810c79a6ebb867540c8c4d0a932e7babf083300526a87": {
+    "category": "streetlight",
+    "subcategory": "dim light",
+    "location_text": "Jhotwara, park gate ke paas",
+    "duration_days": null,
+    "severity": 3,
+    "infrastructure": "streetlight"
+  },
+  "19ff8ba7547eb8f4350f29f0a125a11bbc40612029cae0ed9cf5b944022cb81a": {
+    "category": "water_leak",
+    "subcategory": "burst pipe",
+    "location_text": "सी-स्कीम की सड़क किनारे",
+    "duration_days": null,
+    "severity": 6,
+    "infrastructure": "water pipe"
+  },
+  "f7556f4bede1148dcfee2dff1c55aec7d9e50dced99ca91c8bd67958b528ebf0": {
+    "category": "waste",
+    "subcategory": "garbage pile",
+    "location_text": "a vacant roadside patch near Jagatpura",
+    "duration_days": 6,
+    "severity": 5,
+    "infrastructure": "roadside patch"
+  },
+  "005699b9c80979da6f6897c4d874e3c1a41a44e3872ac53c50132cb368ff224f": {
+    "category": "drainage",
+    "subcategory": "cracked cover",
+    "location_text": "ek chai shop ke saamne",
+    "duration_days": null,
+    "severity": 9,
+    "infrastructure": "manhole cover"
+  }
+}

@@ -1,0 +1,9 @@
+﻿ward,total_issues,resolved_issues,overdue_issues,escalation_issues,resolution_rate,overdue_rate,performance_score
+Ward 106,15,15,0,0,100.0,0.0,100.0
+Ward 127,6,6,0,0,100.0,0.0,100.0
+Ward 45,10,10,0,0,100.0,0.0,100.0
+Ward 63,12,12,0,0,100.0,0.0,100.0
+Ward Other,114,103,0,0,90.35,0.0,100.0
+Ward 70,17,15,0,0,88.24,0.0,100.0
+Ward 93,14,12,0,0,85.71,0.0,100.0
+Ward 119,12,8,0,0,66.67,0.0,100.0
