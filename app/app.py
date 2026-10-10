@@ -389,11 +389,32 @@ with tabs[0]:
             st.warning("Enter a complaint first.")
         else:
             row = build_live_row(complaint, scored_df)
-            c1, c2, c3, c4 = st.columns(4)
-            c1.metric("Category", safe_text(row.get("category"), "other"))
-            c2.metric("Location", safe_text(row.get("matched_name") or row.get("location_text")))
-            c3.metric("Priority", f"{float(row.get('priority_score', 0)):.1f}/100")
-            c4.metric("Department", safe_text(row.get("department")))
+           c1, c2, c3, c4 = st.columns(4)
+
+with c1:
+    st.caption("Category")
+    st.subheader(safe_text(row.get("category"), "Other"))
+
+with c2:
+    st.caption("Location")
+    st.subheader(
+        safe_text(
+            row.get("matched_name") or row.get("location_text"),
+            "Unknown"
+        )
+    )
+
+with c3:
+    st.caption("Priority")
+    st.subheader(
+        f"{float(row.get('priority_score') or 0):.1f}/100"
+    )
+
+with c4:
+    st.caption("Department")
+    st.subheader(
+        safe_text(row.get("department"), "Unassigned")
+    )
             st.markdown(
                 f"""<div class='ios-card'>
                 <div class='ios-label'>Triage explanation</div><div style='margin-top:6px'>{row.get('explanation')}</div><br>
