@@ -18,7 +18,12 @@ except ImportError:
 
 from pipeline.geocode import geocode
 from pipeline.geocode import geocode
-from pipeline.live import process_one
+try:
+    from pipeline.live import process_one
+    LIVE_AI_AVAILABLE = True
+except Exception:
+    process_one = None
+    LIVE_AI_AVAILABLE = False
 from pipeline.score import explain, score, select_top
 from pipeline.score import explain, score, select_top
 
@@ -90,6 +95,173 @@ def load_historical_data():
 
 
 def build_live_row(text: str, historical: pd.DataFrame) -> pd.Series:
+
+    # ------------------------------------------------
+    # REAL LOCAL AI MODE
+    # ------------------------------------------------
+    if LIVE_AI_AVAILABLE and process_one is not None:
+
+        try:
+            result = process_one(text)
+
+            extraction = result["extraction"]
+            geocoding = result["geocoding"]
+            priority = result["priority"]
+            routing = result["routing"]
+            duplicate = result["duplicate_detection"]
+
+            return pd.Series({
+                "id": result["complaint_id"],
+                "raw_text": text,
+
+                "category": extraction["category"],
+                "subcategory": extraction["subcategory"],
+                "location_text": extraction["location_text"],
+                "severity": extraction["severity"],
+                "duration_days": extraction["duration_days"],
+                "infrastructure": extraction["infrastructure"],
+
+                "lat": geocoding["lat"],
+                "lon": geocoding["lon"],
+                "matched_name": geocoding["matched_location"],
+                "geocode_confidence": geocoding["confidence"],
+
+                "priority_score": priority["score"],
+                "explanation": priority["explanation"],
+
+                "department": routing["department"],
+
+                "cluster_id": result["cluster_id"],
+
+                "is_duplicate": duplicate["is_duplicate"],
+                "best_match_id": duplicate["best_match_id"],
+                "duplicate_score": duplicate["score"],
+
+                "ai_mode": "Local Ollama AI"
+            })
+
+        except Exception:
+            pass
+
+
+    # ------------------------------------------------
+    # CLOUD FALLBACK MODE
+    # ------------------------------------------------
+
+    lower = text.lower()
+
+    if any(word in lower for word in [
+        "garbage", "kachra", "कचरा", "waste"
+    ]):
+        category = "waste"
+
+    elif any(word in lower for word in [
+        "drain", "nali", "naali", "sewer",
+        "नाली", "waterlogging"
+    ]):
+        category = "drainage"
+
+    elif any(word in lower for word in [
+        "pothole", "road", "sadak", "सड़क"
+    ]):
+        category = "road_damage"
+
+    elif any(word in lower for word in [
+        "streetlight", "street light", "light"
+    ]):
+        category = "streetlight"
+
+    elif any(word in lower for word in [
+        "water leak", "pipe", "pipeline", "leakage"
+    ]):
+        category = "water_leak"
+
+    else:
+        category = "other"
+
+
+    # Rough severity for public demo
+    severity = 8 if any(word in lower for word in [
+        "danger", "accident", "urgent",
+        "overflow", "fire", "broken"
+    ]) else 5
+
+
+    # Try common Jaipur locations
+    known_locations = [
+        "Mansarovar",
+        "Malviya Nagar",
+        "Vaishali Nagar",
+        "Jagatpura",
+        "Raja Park",
+        "Jhotwara",
+        "Sanganer",
+        "C-Scheme"
+    ]
+
+    location = None
+
+    for place in known_locations:
+        if place.lower() in lower:
+            location = place
+            break
+
+
+    lat = None
+    lon = None
+    matched_name = location
+    confidence = 0.0
+
+    if location:
+        try:
+            lat, lon, matched_name, confidence = geocode(location)
+        except Exception:
+            pass
+
+
+    department_info = route(category, "")
+
+
+    # Simple explainable fallback priority
+    priority_score = min(
+        100,
+        25 + severity * 6
+    )
+
+
+    return pd.Series({
+        "id": "CLOUD-DEMO",
+        "raw_text": text,
+
+        "category": category,
+        "subcategory": "",
+        "location_text": location,
+        "severity": severity,
+        "duration_days": 0,
+        "infrastructure": "",
+
+        "lat": lat,
+        "lon": lon,
+        "matched_name": matched_name,
+        "geocode_confidence": confidence,
+
+        "priority_score": priority_score,
+
+        "explanation":
+            f"Cloud demo fallback: severity {severity}/10 "
+            f"and category {category}.",
+
+        "department":
+            department_info["department"],
+
+        "cluster_id": "cloud_demo",
+
+        "is_duplicate": False,
+        "best_match_id": None,
+        "duplicate_score": 0.0,
+
+        "ai_mode": "Cloud fallback"
+    })
     result = process_one(text)
     extraction = result["extraction"]
     geocoding = result["geocoding"]

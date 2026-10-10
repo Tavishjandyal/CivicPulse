@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+altair
+folium
+streamlit-folium
+scipy
+scikit-learn
+rapidfuzz
+ollama
+pydantic
+tqdm
