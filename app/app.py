@@ -145,7 +145,11 @@ def build_live_row(text: str, historical: pd.DataFrame) -> pd.Series:
     # ------------------------------------------------
 
     lower = text.lower()
+subcategory = ""
 
+if "ped gir" in lower or "tree fell" in lower or "fallen tree" in lower:
+    category = "other"
+    subcategory = "tree_hazard"
     if any(word in lower for word in [
         "garbage", "kachra", "कचरा", "waste"
     ]):
@@ -193,6 +197,7 @@ def build_live_row(text: str, historical: pd.DataFrame) -> pd.Series:
         "Jhotwara",
         "Sanganer",
         "C-Scheme"
+        "Hawa Mahal",
     ]
 
     location = None
@@ -215,8 +220,7 @@ def build_live_row(text: str, historical: pd.DataFrame) -> pd.Series:
             pass
 
 
-    department_info = route(category, "")
-
+department_info = route(category, subcategory)
 
     # Simple explainable fallback priority
     priority_score = min(
@@ -230,7 +234,7 @@ def build_live_row(text: str, historical: pd.DataFrame) -> pd.Series:
         "raw_text": text,
 
         "category": category,
-        "subcategory": "",
+        "subcategory": subcategory,
         "location_text": location,
         "severity": severity,
         "duration_days": 0,
