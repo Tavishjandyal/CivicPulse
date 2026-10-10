@@ -18,12 +18,8 @@ except ImportError:
 
 from pipeline.geocode import geocode
 from pipeline.geocode import geocode
-try:
-    from pipeline.live import process_one
-    LIVE_AI_AVAILABLE = True
-except Exception:
-    process_one = None
-    LIVE_AI_AVAILABLE = False
+process_one = None
+LIVE_AI_AVAILABLE = False
 from pipeline.score import explain, score, select_top
 from pipeline.score import explain, score, select_top
 
